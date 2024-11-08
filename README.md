@@ -1,46 +1,33 @@
-# DigiCore - Plantilla de Página Web para Servicios de Desarrollo de Software
+# Página Web para Empresa de Desarrollo de Software
 
-![Logo de DigiCore](img/logo.png)
+Este proyecto es una página web corporativa diseñada para una empresa de desarrollo de software. La página ofrece información sobre los servicios especializados, los proyectos destacados de la empresa y un área de contacto para clientes interesados en soluciones tecnológicas.
 
-## Descripción General
+## Vista previa
 
-Este proyecto fue diseñado como una demostración de mis habilidades en desarrollo web. DigiCore es una empresa ficticia que creé para representar una compañía de desarrollo de software. La plantilla incluye secciones de servicios, un carrusel dinámico, y un formulario de contacto funcional. Todo el contenido, diseño y desarrollo fueron realizados por mí para este portafolio.
+Puedes ver el sitio en línea aquí:  
+[Ver Página Web para Empresa de Desarrollo de Software](https://aracellylu.github.io/P-gina-Web-para-Empresa-de-Desarrollo-de-Software/)
 
-## Estructura del Proyecto
+## Contenido
 
-├── index.html ├── css │ └── styles.css ├── js │ └── scripts.js ├── img │ ├── logo.png │ └── fondo_nosotros.jpg └── README.md
-
+- **Inicio:** Bienvenida y presentación de la empresa.
+- **Nosotros:** Información sobre la misión, visión y valores de la empresa.
+- **Contacto:** Formulario para que los clientes potenciales puedan comunicarse y solicitar información.
+- **Precios:** Opciones y paquetes de precios según los servicios requeridos.
+- **Preguntas Frecuentes:** Respuestas a las consultas comunes de los clientes.
 
 ## Características
 
-- **Diseño responsivo:** El sitio se adapta a diferentes tamaños de pantalla (desktop, tablet, móvil).
-- **Carrusel dinámico:** Imágenes deslizables en la sección principal.
-- **Secciones personalizables:** Sección de servicios, testimonios, y más.
-
-## Capturas de Pantalla
-
-Aquí algunas capturas de pantalla del proyecto:
-
-(img/screenshot1.png)
-(img/screenshot2.png)
-(img/screenshot3.jfif)
-(img/screenshot4.jfif)
-(img/screenshot5.jfif)
-(img/screenshot6.jfif)
-(img/screenshot7.jfif)
-
+- **Diseño Moderno:** Interfaz visualmente atractiva y profesional.
+- **Responsivo:** Adaptación a dispositivos móviles y pantallas de cualquier tamaño.
+- **Fácil Navegación:** Menú intuitivo para facilitar la exploración de la página.
 
 ## Tecnologías Utilizadas
 
-- **HTML5** para la estructura del contenido.
-- **CSS3** para el diseño y la maquetación responsiva.
-- **JavaScript** para el carrusel y las interacciones dinámicas.
-- **Bootstrap** como framework para facilitar el diseño responsivo.
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap 5**
 
-Autora: Aracelly Quesada 
-Enlace de Github: https://github.com/Aracellylu
+---
 
-
-
-
-
+© 2024 Aracelly Quesada. Todos los derechos reservados.
